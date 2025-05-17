@@ -1,3 +1,6 @@
 [submodule "modulo-aulas"]
 	path = modulo-aulas
 	url = https://github.com/Proyecto-Nuclear/modulo-aulas.git
+[submodule "modulo-asignaturas"]
+	path = modulo-asignaturas
+	url = https://github.com/Proyecto-Nuclear/modulo-asignaturas.git
