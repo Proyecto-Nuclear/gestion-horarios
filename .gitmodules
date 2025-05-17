@@ -10,3 +10,6 @@
 [submodule "modulo-sedes"]
 	path = modulo-sedes
 	url = https://github.com/Proyecto-Nuclear/modulo-sedes.git
+[submodule "modulo-usuarios"]
+	path = modulo-usuarios
+	url = https://github.com/Proyecto-Nuclear/modulo-usuarios.git
