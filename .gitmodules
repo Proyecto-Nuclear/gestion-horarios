@@ -13,3 +13,6 @@
 [submodule "modulo-usuarios"]
 	path = modulo-usuarios
 	url = https://github.com/Proyecto-Nuclear/modulo-usuarios.git
+[submodule "modulo-automatizacion"]
+	path = modulo-automatizacion
+	url = https://github.com/Proyecto-Nuclear/modulo-automatizacion.git
